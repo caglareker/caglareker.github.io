@@ -1,6 +1,6 @@
 # main text of home
 name: Çağlar Eker
-bio: A man sitting at computer in home
+bio: Back-end Developer, Java && Hybris
 
 # twitter summary info
 description: Personel Website
@@ -41,17 +41,17 @@ instagram: caglreker
 # pinterest: mypinterest
 linkedin: caglareker
 # youtube: myyoutube
-spotify: ekercaglar
-github: caglareker
+#spotify: ekercaglar
+github: ekercaglar
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: caglareker
+#medium: caglareker
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: ekercaglar@gmail.com
+#email: ekercaglar@gmail.com
 
 authors:
     johndoe:
